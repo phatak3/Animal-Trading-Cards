@@ -1,0 +1,65 @@
+body {
+	font-family: 'Helvetica', sans-serif;
+	padding-left: 10px;
+	width: 350px;
+}
+
+span {
+
+	font-weight: bold;
+	font-style: normal;
+}
+
+img{
+
+	padding: 3px 10px 10px 10px;
+	width: 325px;
+}
+
+h3{
+    margin:0;
+    padding:0;
+}
+
+.title {
+	font-size: 30px;
+	font-weight: bold;
+	padding: 10px;
+	
+}
+
+.card {
+	border-style: solid;
+	border-width: 1px;
+	border-color: grey;
+	box-shadow: 5px 5px 5px #d3d3d3;
+}
+
+.info{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #d3d3d3;
+	padding: 0px 7px 7px 7px;
+	margin: 0px 10px 10px 10px;
+	font-size: 14px;
+
+}
+
+
+.List{
+	list-style-type:none;
+	list-style-position: inherit;
+	font-style: italic;
+
+}
+
+.block{
+
+	margin:0;
+	padding: 0px;
+}
+
+
+.facts{
+	font-style: italic;
+}
